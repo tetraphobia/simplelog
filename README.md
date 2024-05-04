@@ -1,5 +1,6 @@
 # Simplelog
-A simple logging middleware for Oak.
+A simple logging middleware for Oak v16.0.0.
+
 # Usage
 ```ts
 import { Application } from "oak";
