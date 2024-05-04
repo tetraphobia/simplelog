@@ -3,7 +3,7 @@ import {
     Next,
     Request,
     Response,
-} from "https://deno.land/x/oak@v12.5.0/mod.ts";
+} from "https://deno.land/x/oak@v16.0.0/mod.ts";
 
 // Check if status code represents a successful request.
 const success = (i: number) => i > 199 && i < 209;
